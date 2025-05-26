@@ -44,7 +44,7 @@ In case you use `uv` it will install dependencies automatically. Otherwise insta
    uv run main.py
    ```
 
-## Reasoning and Game Mechanics
+## Motivation and Game Mechanics
 
 There has been lot's of discussions around various LLM benchmarks being "rigged", "memorized" and "trained against" by LLMs up to the point where a substantial amount of users doesn't trust the popular LLM rankings available on the Internet anymore.
 
