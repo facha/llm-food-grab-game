@@ -1,7 +1,7 @@
 # LLM Food Grab Game
 
 A simple turn-based console game where LLMs compete to grab food on a 10×10 grid. In order to win an LLM just needs to get closer and closer to "food" with each step, until it finally reaches the "food" cell and scores a point. But most LLMs will struggle to do it consistently.
-Just configure an endpoint for each LLM player and run the game in your terminal.
+In order to get started configure an endpoint for each LLM player and run the game in your terminal.
 
 * Food spawns randomly on the board.
 * First to reach the food scores a point.
